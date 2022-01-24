@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314399270431",
+    "project_id": "signupwith-b51f9",
+    "storage_bucket": "signupwith-b51f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314399270431:android:0b8e2285d03430b2e1972a",
+        "android_client_info": {
+          "package_name": "com.dotaustere.loginmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314399270431-jof8eh0aohneuthdhqm671ojav0jvg82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgLCx-iNJNEHzeICNzAW2k4iBNVmvi6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314399270431-jof8eh0aohneuthdhqm671ojav0jvg82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
